@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Conversion
+comment1.params=
+comment1.target=Conversion()
+comment2.params=celsius
+comment2.target=double\ toFahrenheit(double)
+comment3.params=miles
+comment3.target=double\ toKilometres(double)
+comment4.params=
+comment4.target=void\ menu()
+comment5.params=
+comment5.target=void\ help()
+comment6.params=
+comment6.target=char\ readChoice()
+comment7.params=
+comment7.target=void\ mileConversion()
+comment8.params=
+comment8.target=void\ averageTemp()
+numComments=9

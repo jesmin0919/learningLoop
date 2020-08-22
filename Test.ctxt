@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=
+comment1.target=Test()
+comment2.params=
+comment2.target=void\ basicWhile()
+comment3.params=
+comment3.target=void\ addCounter()
+comment4.params=
+comment4.target=void\ addK()
+comment5.params=
+comment5.target=void\ charInput()
+comment6.params=
+comment6.target=void\ basicNestedFor()
+comment7.params=
+comment7.target=void\ multTable5()
+comment8.params=
+comment8.target=void\ shape()
+comment9.params=
+comment9.target=void\ shapeWhile()
+numComments=10
